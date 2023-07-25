@@ -1,4 +1,4 @@
-# HMTL + CSS Challenge
+# HMTL + CSS Challenge / Landing Page
 ## (Last Update) - 25/07/2023
 ### This project is a milestone of a FullStack developer course, serving to reinforce foundational principles and then upload it to a GitHub repository.
 
