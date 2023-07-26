@@ -9,7 +9,7 @@
 </p>
 
 The Project is currently accessible at:
-https://bigodrigo.github.io/
+https://bigodrigo.github.io/landing-page/
 
 ## 🚀 Technologies
 
